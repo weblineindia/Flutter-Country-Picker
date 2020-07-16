@@ -110,8 +110,9 @@ Detailed changes for each release are documented in [CHANGELOG](./CHANGELOG).
 
 ## License
 
-[MIT] (LICENSE)
-[https://github.com/weblineindia/iOS_Drawer_Menu/blob/master/LICENSE]: https://github.com/weblineindia/iOS_Drawer_Menu/blob/master/LICENSE
+ [MIT](LICENSE)
+
+ [mit]: https://github.com/weblineindia/Flutter-Country-Picker/blob/master/LICENSE
 
 ## Keywords
 
